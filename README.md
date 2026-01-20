@@ -88,4 +88,4 @@ Data disimpan dalam **localStorage** pelayar:
 
 ---
 
-**Dibuat dengan ❤️ untuk projek pengajian**
+**Dibuat dengan  untuk projek pengajian**
